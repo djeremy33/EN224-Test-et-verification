@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "pgcd.h": "c",
+        "assert.h": "c"
+    }
+}
