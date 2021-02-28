@@ -82,7 +82,7 @@ BEGIN
         idata_a   => pack_from_uart(63 downto 32),
         idata_b   => pack_from_uart(31 downto  0),
         idata_en  => let_s_go,
-        odata     => data_to_uart,
+        odata_a     => data_to_uart,
         odata_en  => data_to_uart_en
     );
 

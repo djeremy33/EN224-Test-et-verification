@@ -1,0 +1,4 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Error: Assertion violation
+Time: 115 ns  Iteration: 0  Process: /PGCD_tb/stimulus  File: /net/s/jdomingos/Documents/S4/EN224-Test-et-verification/2_Hardware/Etape_3/PGCD_e/PGCD_e.srcs/sim_1/new/PGCD_tb.vhd

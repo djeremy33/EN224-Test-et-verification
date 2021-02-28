@@ -1,0 +1,36 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Note: nbr de cycle d'horloge : 4
+Time: 125 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 2
+Time: 195 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 7
+Time: 315 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 5
+Time: 415 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 7
+Time: 535 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 9
+Time: 675 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 5
+Time: 775 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 4
+Time: 865 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 7
+Time: 985 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 7
+Time: 1105 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 7
+Time: 1225 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 4
+Time: 1315 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 7
+Time: 1435 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 5
+Time: 1535 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 6
+Time: 1645 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 6
+Time: 1755 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
+Note: nbr de cycle d'horloge : 2052
+Time: 22325 ns  Iteration: 0  Process: /PGCD_tb/uut/PGCD_MaE  File: C:/Users/DOMINGOS Jeremy/Documents/Cours/S4/EN224-Test-et-verification/2_Hardware/Etape_6/PGCD_e/PGCD_e.srcs/sources_1/new/PGCD.vhd
